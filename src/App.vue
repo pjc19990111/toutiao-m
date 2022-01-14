@@ -1,19 +1,12 @@
 <template>
-  <div>112132</div>
+  <div id="app">
+    <h1>12123123</h1>
+    <!-- <router-view /> -->
+  </div>
 </template>
-
 <script>
 export default {
-  name: '黑马头条App',
-
-  data () {
-    return {}
-  },
-
-  mounted () {},
-
-  methods: {}
+  name: 'App'
 }
 </script>
-
-<style lang="scss" scoped></style>
+<style lang="less"></style>
